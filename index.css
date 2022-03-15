@@ -1,0 +1,113 @@
+body{
+    background-color: rgb(30, 35, 46);
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+nav{
+    background-color: rgb(44, 164, 109);
+}
+
+#div1{
+    padding: 0 20%;
+    margin-top: 80px;
+    margin-bottom: 200px;
+}
+
+#div2{
+    margin-top: 180px;
+}
+
+#section1{
+    padding: 0 15%;
+    margin-bottom: 160px;
+
+}
+
+#section2{
+    padding: 0 15%;
+    margin-bottom: 140px;
+
+}
+
+#section3{
+    padding: 0 15%;
+    margin-bottom: 140px;
+
+}
+
+#section4{
+    padding: 0 15%;
+    margin-bottom: 140px;
+
+}
+
+#section5{
+    padding: 0 15%;
+    margin-bottom: 140px;
+}
+
+#div3{
+    padding: 0 20%;
+    margin-top: 80px;
+    margin-bottom: 200px;
+}
+
+#div4{
+    padding: 0 15%;
+    margin-bottom: 140px;
+    margin-top: -30px;
+}
+
+#section6{
+    padding: 0 15%;
+    margin-bottom: 140px;
+}
+
+#div5{
+    padding: 0 15%;
+    margin-bottom: 140px;
+}
+
+#a:hover{
+    color: rgb(44, 164, 109);
+    text-decoration: none;
+}
+
+#section7{
+    padding: 0 15%;
+    margin-bottom: 140px;
+}
+
+#section8{
+    padding: 0 15%;
+    margin-bottom: 140px;
+}
+
+#div6{
+    padding: 0 8%;
+    margin-top: 30px;
+}
+
+#div7{
+    padding: 0 15%;
+    margin-bottom: 10px;
+    margin-top: 120px;
+}
+
+#div8{
+    padding: 0 15%;
+    margin-bottom: 80px;
+    margin-top: 120px;
+}
+
+#pageColor{
+    position: fixed;
+    bottom: 50%;
+    left: 0;
+    border-radius: 0px 10px 10px 0px;
+}
+
+nav a p{
+    color: white;
+}
